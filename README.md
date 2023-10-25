@@ -1,4 +1,4 @@
-**STOCK MARKET PREDICTION USING TIME SERIES ANALYSIS**
+**STOCK MARKET FORECASTING USING TIME SERIES ANALYSIS**
 
 The stock market is a marketplace that allows for the seamless exchange of corporate stock purchases and sales. Every Stock Exchange has its own value for the Stock Index. The index is the average value derived by adding up the prices of various equities. This aids in the representation of the entire stock market as well as the forecasting of market movement over time. As a result, effectively predicting stock trends can reduce the risk of loss while increasing profit.
 
